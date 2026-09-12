@@ -1,5 +1,5 @@
 function share() {
-    navigator.clipboard.writeText('URL to come :)');
+    navigator.clipboard.writeText('https://fish-in-a-puddle.github.io/heyguyslookatmydog/');
 }
 
 function generateImage() {
